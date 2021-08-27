@@ -1,8 +1,6 @@
 # charm-install-script
 
-Ejecutar
-
-`./script.sh`
+Script de instalacion de la libreria de encriptacion CHARM para distros derivadas de Debian. 
 
 Testeado en:
 
